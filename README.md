@@ -28,6 +28,15 @@ feat: add physical security section
 feat: add real social icons
 ```
 
+- **`fix:`** - исправил ошибку в ранее реализованной функциональности. Примеры:
+
+```
+fix: implement correct loading data from youtube
+fix: change layout for video items to fix bugs
+fix: relayout header for firefox
+fix: adjust social links for mobile
+```
+
 - **`refactor:`** - - новой функциональности не добавлял/поведения не менял. Файлы в другие места положил, удалил, добавил. Изменил форматирование кода (white-space, formatting, missing semi-colons, etc). Улучшил алгоритм, без изменения функциональности. Примеры:
 
 ```
