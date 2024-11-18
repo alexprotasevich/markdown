@@ -13,3 +13,12 @@
 init: start youtube-task
 init: start mentor-dashboard task
 ```
+
+- **`fix:`** - исправил ошибку в ранее реализованной функциональности. Примеры:
+
+```
+fix: implement correct loading data from youtube
+fix: change layout for video items to fix bugs
+fix: relayout header for firefox
+fix: adjust social links for mobile
+```
